@@ -1,0 +1,41 @@
+﻿body {
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: red;
+}
+
+h1 {
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left:100px;
+    color: blue;
+}
+
+.label {
+    margin-left: 80px;
+    text-align: right;
+    vertical-align: central
+}
+
+.text {
+    margin-left: 20px;
+}
+
+.boton {
+    background-color: white;
+    border: solid 1px #ccc;
+    color: #282828;
+    font-weight: bold;
+    margin-left: 3px;
+    height: 22px;
+    padding: 0px 4px 0px 4px;
+    font: 11px "Trebuchet MS", Arial, Helvetica;
+}
+
+#txtNombre {
+    color:green;
+}
